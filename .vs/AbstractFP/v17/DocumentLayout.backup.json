@@ -1,0 +1,415 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Downloads\\VStudio\\AbstractFP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE083B9-3181-43C4-8B3B-50091EFA8C89}|AbstractFP\\AbstractFP.csproj|c:\\users\\pc\\downloads\\vstudio\\abstractfp\\abstractfp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE083B9-3181-43C4-8B3B-50091EFA8C89}|AbstractFP\\AbstractFP.csproj|solutionrelative:abstractfp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE083B9-3181-43C4-8B3B-50091EFA8C89}|AbstractFP\\AbstractFP.csproj|c:\\users\\pc\\downloads\\vstudio\\abstractfp\\abstractfp\\workshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE083B9-3181-43C4-8B3B-50091EFA8C89}|AbstractFP\\AbstractFP.csproj|solutionrelative:abstractfp\\workshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE083B9-3181-43C4-8B3B-50091EFA8C89}|AbstractFP\\AbstractFP.csproj|c:\\users\\pc\\downloads\\vstudio\\abstractfp\\abstractfp\\steelpartsfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE083B9-3181-43C4-8B3B-50091EFA8C89}|AbstractFP\\AbstractFP.csproj|solutionrelative:abstractfp\\steelpartsfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE083B9-3181-43C4-8B3B-50091EFA8C89}|AbstractFP\\AbstractFP.csproj|c:\\users\\pc\\downloads\\vstudio\\abstractfp\\abstractfp\\icarpartsfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE083B9-3181-43C4-8B3B-50091EFA8C89}|AbstractFP\\AbstractFP.csproj|solutionrelative:abstractfp\\icarpartsfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE083B9-3181-43C4-8B3B-50091EFA8C89}|AbstractFP\\AbstractFP.csproj|c:\\users\\pc\\downloads\\vstudio\\abstractfp\\abstractfp\\aluminiumpartsfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE083B9-3181-43C4-8B3B-50091EFA8C89}|AbstractFP\\AbstractFP.csproj|solutionrelative:abstractfp\\aluminiumpartsfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE083B9-3181-43C4-8B3B-50091EFA8C89}|AbstractFP\\AbstractFP.csproj|c:\\users\\pc\\downloads\\vstudio\\abstractfp\\abstractfp\\iwheel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE083B9-3181-43C4-8B3B-50091EFA8C89}|AbstractFP\\AbstractFP.csproj|solutionrelative:abstractfp\\iwheel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE083B9-3181-43C4-8B3B-50091EFA8C89}|AbstractFP\\AbstractFP.csproj|c:\\users\\pc\\downloads\\vstudio\\abstractfp\\abstractfp\\iseat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE083B9-3181-43C4-8B3B-50091EFA8C89}|AbstractFP\\AbstractFP.csproj|solutionrelative:abstractfp\\iseat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE083B9-3181-43C4-8B3B-50091EFA8C89}|AbstractFP\\AbstractFP.csproj|c:\\users\\pc\\downloads\\vstudio\\abstractfp\\abstractfp\\ihandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE083B9-3181-43C4-8B3B-50091EFA8C89}|AbstractFP\\AbstractFP.csproj|solutionrelative:abstractfp\\ihandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE083B9-3181-43C4-8B3B-50091EFA8C89}|AbstractFP\\AbstractFP.csproj|c:\\users\\pc\\downloads\\vstudio\\abstractfp\\abstractfp\\ipedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE083B9-3181-43C4-8B3B-50091EFA8C89}|AbstractFP\\AbstractFP.csproj|solutionrelative:abstractfp\\ipedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE083B9-3181-43C4-8B3B-50091EFA8C89}|AbstractFP\\AbstractFP.csproj|c:\\users\\pc\\downloads\\vstudio\\abstractfp\\abstractfp\\iframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE083B9-3181-43C4-8B3B-50091EFA8C89}|AbstractFP\\AbstractFP.csproj|solutionrelative:abstractfp\\iframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE083B9-3181-43C4-8B3B-50091EFA8C89}|AbstractFP\\AbstractFP.csproj|c:\\users\\pc\\downloads\\vstudio\\abstractfp\\abstractfp\\steelseat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE083B9-3181-43C4-8B3B-50091EFA8C89}|AbstractFP\\AbstractFP.csproj|solutionrelative:abstractfp\\steelseat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE083B9-3181-43C4-8B3B-50091EFA8C89}|AbstractFP\\AbstractFP.csproj|c:\\users\\pc\\downloads\\vstudio\\abstractfp\\abstractfp\\steelbrake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE083B9-3181-43C4-8B3B-50091EFA8C89}|AbstractFP\\AbstractFP.csproj|solutionrelative:abstractfp\\steelbrake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE083B9-3181-43C4-8B3B-50091EFA8C89}|AbstractFP\\AbstractFP.csproj|c:\\users\\pc\\downloads\\vstudio\\abstractfp\\abstractfp\\aluminiumbrake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE083B9-3181-43C4-8B3B-50091EFA8C89}|AbstractFP\\AbstractFP.csproj|solutionrelative:abstractfp\\aluminiumbrake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE083B9-3181-43C4-8B3B-50091EFA8C89}|AbstractFP\\AbstractFP.csproj|c:\\users\\pc\\downloads\\vstudio\\abstractfp\\abstractfp\\aluminiumframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE083B9-3181-43C4-8B3B-50091EFA8C89}|AbstractFP\\AbstractFP.csproj|solutionrelative:abstractfp\\aluminiumframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE083B9-3181-43C4-8B3B-50091EFA8C89}|AbstractFP\\AbstractFP.csproj|c:\\users\\pc\\downloads\\vstudio\\abstractfp\\abstractfp\\aluminiumhandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE083B9-3181-43C4-8B3B-50091EFA8C89}|AbstractFP\\AbstractFP.csproj|solutionrelative:abstractfp\\aluminiumhandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE083B9-3181-43C4-8B3B-50091EFA8C89}|AbstractFP\\AbstractFP.csproj|c:\\users\\pc\\downloads\\vstudio\\abstractfp\\abstractfp\\aluminiumpedals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE083B9-3181-43C4-8B3B-50091EFA8C89}|AbstractFP\\AbstractFP.csproj|solutionrelative:abstractfp\\aluminiumpedals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE083B9-3181-43C4-8B3B-50091EFA8C89}|AbstractFP\\AbstractFP.csproj|c:\\users\\pc\\downloads\\vstudio\\abstractfp\\abstractfp\\aluminiumseat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE083B9-3181-43C4-8B3B-50091EFA8C89}|AbstractFP\\AbstractFP.csproj|solutionrelative:abstractfp\\aluminiumseat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE083B9-3181-43C4-8B3B-50091EFA8C89}|AbstractFP\\AbstractFP.csproj|c:\\users\\pc\\downloads\\vstudio\\abstractfp\\abstractfp\\aluminiumwheel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE083B9-3181-43C4-8B3B-50091EFA8C89}|AbstractFP\\AbstractFP.csproj|solutionrelative:abstractfp\\aluminiumwheel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE083B9-3181-43C4-8B3B-50091EFA8C89}|AbstractFP\\AbstractFP.csproj|c:\\users\\pc\\downloads\\vstudio\\abstractfp\\abstractfp\\steelwheel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE083B9-3181-43C4-8B3B-50091EFA8C89}|AbstractFP\\AbstractFP.csproj|solutionrelative:abstractfp\\steelwheel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE083B9-3181-43C4-8B3B-50091EFA8C89}|AbstractFP\\AbstractFP.csproj|c:\\users\\pc\\downloads\\vstudio\\abstractfp\\abstractfp\\steelpedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE083B9-3181-43C4-8B3B-50091EFA8C89}|AbstractFP\\AbstractFP.csproj|solutionrelative:abstractfp\\steelpedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE083B9-3181-43C4-8B3B-50091EFA8C89}|AbstractFP\\AbstractFP.csproj|c:\\users\\pc\\downloads\\vstudio\\abstractfp\\abstractfp\\steelhandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE083B9-3181-43C4-8B3B-50091EFA8C89}|AbstractFP\\AbstractFP.csproj|solutionrelative:abstractfp\\steelhandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE083B9-3181-43C4-8B3B-50091EFA8C89}|AbstractFP\\AbstractFP.csproj|c:\\users\\pc\\downloads\\vstudio\\abstractfp\\abstractfp\\steelframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE083B9-3181-43C4-8B3B-50091EFA8C89}|AbstractFP\\AbstractFP.csproj|solutionrelative:abstractfp\\steelframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE083B9-3181-43C4-8B3B-50091EFA8C89}|AbstractFP\\AbstractFP.csproj|c:\\users\\pc\\downloads\\vstudio\\abstractfp\\abstractfp\\ibrake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE083B9-3181-43C4-8B3B-50091EFA8C89}|AbstractFP\\AbstractFP.csproj|solutionrelative:abstractfp\\ibrake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Workshop.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\VStudio\\AbstractFP\\AbstractFP\\Workshop.cs",
+              "RelativeDocumentMoniker": "AbstractFP\\Workshop.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\VStudio\\AbstractFP\\AbstractFP\\Workshop.cs",
+              "RelativeToolTip": "AbstractFP\\Workshop.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAB0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T19:44:39.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IHandle.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\VStudio\\AbstractFP\\AbstractFP\\IHandle.cs",
+              "RelativeDocumentMoniker": "AbstractFP\\IHandle.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\VStudio\\AbstractFP\\AbstractFP\\IHandle.cs",
+              "RelativeToolTip": "AbstractFP\\IHandle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T18:53:30.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ISeat.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\VStudio\\AbstractFP\\AbstractFP\\ISeat.cs",
+              "RelativeDocumentMoniker": "AbstractFP\\ISeat.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\VStudio\\AbstractFP\\AbstractFP\\ISeat.cs",
+              "RelativeToolTip": "AbstractFP\\ISeat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T18:55:12.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IWheel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\VStudio\\AbstractFP\\AbstractFP\\IWheel.cs",
+              "RelativeDocumentMoniker": "AbstractFP\\IWheel.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\VStudio\\AbstractFP\\AbstractFP\\IWheel.cs",
+              "RelativeToolTip": "AbstractFP\\IWheel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T18:52:51.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\VStudio\\AbstractFP\\AbstractFP\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractFP\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\VStudio\\AbstractFP\\AbstractFP\\Program.cs*",
+              "RelativeToolTip": "AbstractFP\\Program.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T18:45:52.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICarPartsFactory.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\VStudio\\AbstractFP\\AbstractFP\\ICarPartsFactory.cs",
+              "RelativeDocumentMoniker": "AbstractFP\\ICarPartsFactory.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\VStudio\\AbstractFP\\AbstractFP\\ICarPartsFactory.cs",
+              "RelativeToolTip": "AbstractFP\\ICarPartsFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T19:25:19.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SteelPartsFactory.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\VStudio\\AbstractFP\\AbstractFP\\SteelPartsFactory.cs",
+              "RelativeDocumentMoniker": "AbstractFP\\SteelPartsFactory.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\VStudio\\AbstractFP\\AbstractFP\\SteelPartsFactory.cs",
+              "RelativeToolTip": "AbstractFP\\SteelPartsFactory.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T19:30:03.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AluminiumPartsFactory.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\VStudio\\AbstractFP\\AbstractFP\\AluminiumPartsFactory.cs",
+              "RelativeDocumentMoniker": "AbstractFP\\AluminiumPartsFactory.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\VStudio\\AbstractFP\\AbstractFP\\AluminiumPartsFactory.cs",
+              "RelativeToolTip": "AbstractFP\\AluminiumPartsFactory.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAB4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T19:33:50.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IPedal.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\VStudio\\AbstractFP\\AbstractFP\\IPedal.cs",
+              "RelativeDocumentMoniker": "AbstractFP\\IPedal.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\VStudio\\AbstractFP\\AbstractFP\\IPedal.cs",
+              "RelativeToolTip": "AbstractFP\\IPedal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T18:54:12.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IFrame.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\VStudio\\AbstractFP\\AbstractFP\\IFrame.cs",
+              "RelativeDocumentMoniker": "AbstractFP\\IFrame.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\VStudio\\AbstractFP\\AbstractFP\\IFrame.cs",
+              "RelativeToolTip": "AbstractFP\\IFrame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T18:52:16.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SteelSeat.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\VStudio\\AbstractFP\\AbstractFP\\SteelSeat.cs",
+              "RelativeDocumentMoniker": "AbstractFP\\SteelSeat.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\VStudio\\AbstractFP\\AbstractFP\\SteelSeat.cs",
+              "RelativeToolTip": "AbstractFP\\SteelSeat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T19:07:07.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SteelBrake.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\VStudio\\AbstractFP\\AbstractFP\\SteelBrake.cs",
+              "RelativeDocumentMoniker": "AbstractFP\\SteelBrake.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\VStudio\\AbstractFP\\AbstractFP\\SteelBrake.cs",
+              "RelativeToolTip": "AbstractFP\\SteelBrake.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T19:01:41.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AluminiumPedals.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\VStudio\\AbstractFP\\AbstractFP\\AluminiumPedals.cs",
+              "RelativeDocumentMoniker": "AbstractFP\\AluminiumPedals.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\VStudio\\AbstractFP\\AbstractFP\\AluminiumPedals.cs",
+              "RelativeToolTip": "AbstractFP\\AluminiumPedals.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T19:19:25.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AluminiumSeat.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\VStudio\\AbstractFP\\AbstractFP\\AluminiumSeat.cs",
+              "RelativeDocumentMoniker": "AbstractFP\\AluminiumSeat.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\VStudio\\AbstractFP\\AbstractFP\\AluminiumSeat.cs",
+              "RelativeToolTip": "AbstractFP\\AluminiumSeat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T19:21:13.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AluminiumWheel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\VStudio\\AbstractFP\\AbstractFP\\AluminiumWheel.cs",
+              "RelativeDocumentMoniker": "AbstractFP\\AluminiumWheel.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\VStudio\\AbstractFP\\AbstractFP\\AluminiumWheel.cs",
+              "RelativeToolTip": "AbstractFP\\AluminiumWheel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T19:22:27.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AluminiumHandle.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\VStudio\\AbstractFP\\AbstractFP\\AluminiumHandle.cs",
+              "RelativeDocumentMoniker": "AbstractFP\\AluminiumHandle.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\VStudio\\AbstractFP\\AbstractFP\\AluminiumHandle.cs",
+              "RelativeToolTip": "AbstractFP\\AluminiumHandle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T19:17:19.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AluminiumFrame.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\VStudio\\AbstractFP\\AbstractFP\\AluminiumFrame.cs",
+              "RelativeDocumentMoniker": "AbstractFP\\AluminiumFrame.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\VStudio\\AbstractFP\\AbstractFP\\AluminiumFrame.cs",
+              "RelativeToolTip": "AbstractFP\\AluminiumFrame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T19:14:54.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SteelWheel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\VStudio\\AbstractFP\\AbstractFP\\SteelWheel.cs",
+              "RelativeDocumentMoniker": "AbstractFP\\SteelWheel.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\VStudio\\AbstractFP\\AbstractFP\\SteelWheel.cs",
+              "RelativeToolTip": "AbstractFP\\SteelWheel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T19:00:24.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AluminiumBrake.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\VStudio\\AbstractFP\\AbstractFP\\AluminiumBrake.cs",
+              "RelativeDocumentMoniker": "AbstractFP\\AluminiumBrake.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\VStudio\\AbstractFP\\AbstractFP\\AluminiumBrake.cs",
+              "RelativeToolTip": "AbstractFP\\AluminiumBrake.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T19:13:47.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SteelFrame.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\VStudio\\AbstractFP\\AbstractFP\\SteelFrame.cs",
+              "RelativeDocumentMoniker": "AbstractFP\\SteelFrame.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\VStudio\\AbstractFP\\AbstractFP\\SteelFrame.cs",
+              "RelativeToolTip": "AbstractFP\\SteelFrame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T18:59:16.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SteelPedal.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\VStudio\\AbstractFP\\AbstractFP\\SteelPedal.cs",
+              "RelativeDocumentMoniker": "AbstractFP\\SteelPedal.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\VStudio\\AbstractFP\\AbstractFP\\SteelPedal.cs",
+              "RelativeToolTip": "AbstractFP\\SteelPedal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T19:03:50.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SteelHandle.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\VStudio\\AbstractFP\\AbstractFP\\SteelHandle.cs",
+              "RelativeDocumentMoniker": "AbstractFP\\SteelHandle.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\VStudio\\AbstractFP\\AbstractFP\\SteelHandle.cs",
+              "RelativeToolTip": "AbstractFP\\SteelHandle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T19:05:33.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IBrake.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\VStudio\\AbstractFP\\AbstractFP\\IBrake.cs",
+              "RelativeDocumentMoniker": "AbstractFP\\IBrake.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\VStudio\\AbstractFP\\AbstractFP\\IBrake.cs",
+              "RelativeToolTip": "AbstractFP\\IBrake.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T18:54:42.632Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

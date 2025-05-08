@@ -1,0 +1,7 @@
+C:\Users\PC\Downloads\VStudio\AbstractFP\AbstractFP\obj\Debug\AbstractFP.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\VStudio\AbstractFP\AbstractFP\obj\Debug\AbstractFP.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\VStudio\AbstractFP\AbstractFP\bin\Debug\AbstractFP.exe.config
+C:\Users\PC\Downloads\VStudio\AbstractFP\AbstractFP\bin\Debug\AbstractFP.exe
+C:\Users\PC\Downloads\VStudio\AbstractFP\AbstractFP\bin\Debug\AbstractFP.pdb
+C:\Users\PC\Downloads\VStudio\AbstractFP\AbstractFP\obj\Debug\AbstractFP.exe
+C:\Users\PC\Downloads\VStudio\AbstractFP\AbstractFP\obj\Debug\AbstractFP.pdb
